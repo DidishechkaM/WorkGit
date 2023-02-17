@@ -2,7 +2,7 @@ package ru.dianamaksimowa;
 
 public class Main {
     public static void main(String[] args) {
- today
+        Object today;
         System.out.println("Hi");
 
     }
